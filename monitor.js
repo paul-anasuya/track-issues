@@ -7,7 +7,7 @@ var options = {
    url: URL,
    headers: {
       'Accept': 'application/json',
-      'X-Api-Key': process.env.NEWRELIC_REST_API_KEY
+      'X-Api-Key': process.env.npm_config_new_relic_key
    }
 };
 
