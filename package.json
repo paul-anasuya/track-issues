@@ -1,0 +1,15 @@
+{
+  "name": "track_issues",
+  "version": "1.0.0",
+  "description": "This project is used to track issues,check releases and check user stories ",
+  "main": "index.js",
+  "scripts": {
+    "check-release": "node check-release.js",
+    "check-user-stories": "node check-user-stories.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.87.0"
+  }
+}
