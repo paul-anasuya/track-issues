@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "check-release": "node check-release.js",
-    "check-user-stories": "node check-user-stories.js"
+    "check-user-stories": "node check-user-stories.js",
+    "check-monitoring": "node monitor.js"
   },
   "author": "",
   "license": "ISC",
