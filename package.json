@@ -6,7 +6,8 @@
   "scripts": {
     "check-release": "node check-release.js",
     "check-user-stories": "node check-user-stories.js",
-    "check-monitoring": "node monitor.js"
+    "check-monitoring": "node monitor.js",
+    "create-cr": "node create-cr.js"
   },
   "author": "",
   "license": "ISC",
