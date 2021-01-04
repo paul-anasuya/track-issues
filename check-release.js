@@ -1,8 +1,8 @@
 var request = require('request');
 
-const URL = 'https://aglenergy.atlassian.net/rest/api/2/issue/';
-const USERNAME = 'sbhattacharjee4@agl.com.au';
-const PASSWORD = 'P@ssw0rd1';
+const URL = '';
+const USERNAME = '';
+const PASSWORD = '';
 
 var options = {
    method: 'GET',
